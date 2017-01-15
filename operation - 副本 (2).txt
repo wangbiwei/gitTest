@@ -1,4 +1,8 @@
 git init
 git add τ¼�
 
+<<<<<<< HEAD
 develop分支 2017年1月15日
+=======
+master分支 2017年1月15日
+>>>>>>> master
